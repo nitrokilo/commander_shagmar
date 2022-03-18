@@ -241,7 +241,7 @@ name = input("Name your character")
 welcome_msg(name)
 
 game_state(name, 3)
-print(game_status)
+#print(game_status)
 print("Thank you for playing commander Shagmar. Visit nitrokilo.com for more cool stuff")
 
 
